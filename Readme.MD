@@ -3,7 +3,7 @@
 
 ## Description
 
-The repository contains Maple files with detailed calculations for the paper 
+The repository contains Maple files with detailed calculations for the paper [1].
 
 
 ## Copyright
@@ -36,4 +36,4 @@ http://d-omega.org/brackets/
 
 ## Bibliography
 
-[1] Radoslaw A. Kycia, Maria Ulan, Integrability of geodesics of totally geodesic metrics, arXiv: TODO
+[1] Radoslaw A. Kycia, Maria Ulan, Integrability of geodesics of totally geodesic metrics, arXiv: https://arxiv.org/abs/1810.00962
